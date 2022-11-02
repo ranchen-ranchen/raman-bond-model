@@ -1,2 +1,2 @@
-# raman bond model
+# Raman Bond Model
 Raman bond model is a first-principles model that partitions Raman intensities from electronic structure simulations to atomic and bond contributions. s The bond contributions are dominant and correspond to interatom charge flow modulations, defined as Raman bonds. Hirshfeld partitioning and charge density localization are applied to express polarizability derivatives as charge flow modulations. This model is developed by Ran Chen and Lasse Jensen at Penn State University. More details about the model can be found in the literature: J. Chem. Phys. 152, 024126 (2020); J. Chem. Phys. 153, 224704 (2020)
